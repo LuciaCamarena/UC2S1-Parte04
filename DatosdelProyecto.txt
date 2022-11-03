@@ -1,0 +1,13 @@
+Integrantes
+
+	- Zevallos Caceres, Piero Alonso
+	  Git Hub:https://github.com/Tsunokiro/UC2S1-Parte01.git
+
+	- Ventocilla Alcantara, Jhean Pool
+	  Git Hub: https://github.com/zura3/UC2S1-Parte02.git
+
+	- Escobar Mejia, Alejandro Maycoll
+	  Git Hub:https://github.com/Maycoll01/UC2S1-Parte03.git
+
+	- Camarena Gomero, Lucia Isabel
+	  Git Hub:https://github.com/LuciaCamarena/UC2S1-Parte04.git
